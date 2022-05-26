@@ -1,0 +1,21 @@
+
+í
+bapp/src/main/java/com/example/burakozknn/employeedirectory/employee/viewmodel/EmployeeViewModel.kt,9/1/91f244529ffa1fd8d007ecadd31c753c725d711b
+ñ
+fapp/src/test/java/com/example/burakozknn/employeedirectory/employee/viewmodel/EmployeeViewModelTest.kt,7/d/7df98b04d0ac80a19a95180728a8493112118229
+â
+Yapp/src/main/java/com/example/burakozknn/employeedirectory/employee/model/EmployeeType.kt,e/c/ec94c6bf7fc999b4c0f2b0661df03263dceacf17
+@
+app/build.gradle,f/4/f4a01d6a4fcb971362ec00a83903fd3902f52164
+|
+Lapp/src/main/java/com/example/burakozknn/employeedirectory/api/ApiService.kt,f/6/f678e2590b6f4e18689d1bb3beb37ed2364dbd06
+{
+Kapp/src/main/java/com/example/burakozknn/employeedirectory/api/ApiClient.kt,d/6/d6b73fe9e9ac0ec694fdeda64456e5d188c874ba
+å
+\app/src/main/java/com/example/burakozknn/employeedirectory/employee/view/EmployeeActivity.kt,9/d/9d90ce564837554fe90d5afe5a6fb2c6a703bfd2
+9
+	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+Ü
+Vapp/src/main/java/com/example/burakozknn/employeedirectory/employee/model/Employees.kt,3/1/315f3bba991af3ae2831d0d3bff7ba8f02b7e7eb
+è
+_app/src/main/java/com/example/burakozknn/employeedirectory/employee/model/EmployeeRepository.kt,f/2/f2acf3af25b38f4e53257c81695d85c3052bac60

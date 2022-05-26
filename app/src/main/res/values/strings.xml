@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">EmployeeDirectory</string>
+    <string name="toolbar_title">Block Employee List</string>
+    <string name="get_employees">Get Employees</string>
+    <string name="get_malformed_employees">Get Malformed Employees</string>
+    <string name="get_empty_employee_list">Get Empty Employee List</string>
+    <string name="clear_data">Clear Data</string>
+    <string name="response_successful">Response Successful</string>
+    <string name="failure">Failure</string>
+    <string name="empty_list">Empty List</string>
+
+</resources>

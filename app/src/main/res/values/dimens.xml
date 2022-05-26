@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Common Margins -->
+    <dimen name="margin_8">8dp</dimen>
+    <dimen name="margin_16">16dp</dimen>
+    <dimen name="margin_24">24dp</dimen>
+    <dimen name="margin_32">32dp</dimen>
+    <dimen name="margin_40">40dp</dimen>
+
+    <!--  Generic Margins  -->
+    <dimen name="margin_extra_small">@dimen/margin_8</dimen>
+    <dimen name="margin_small">@dimen/margin_16</dimen>
+    <dimen name="margin_medium">@dimen/margin_24</dimen>
+    <dimen name="margin_large">@dimen/margin_32</dimen>
+    <dimen name="margin_extra_large">@dimen/margin_40</dimen>
+
+    <!-- Common Text -->
+    <dimen name="text_4">4sp</dimen>
+    <dimen name="text_8">8sp</dimen>
+    <dimen name="text_10">10sp</dimen>
+    <dimen name="text_12">12sp</dimen>
+    <dimen name="text_14">14sp</dimen>
+    <dimen name="text_16">16sp</dimen>
+    <dimen name="text_18">18sp</dimen>
+    <dimen name="text_24">24sp</dimen>
+    <dimen name="text_32">32sp</dimen>
+
+    <!--  Generic Text  -->
+    <dimen name="text_extra_extra_small">@dimen/text_8</dimen>
+    <dimen name="text_extra_small">@dimen/text_12</dimen>
+    <dimen name="text_small">@dimen/text_14</dimen>
+    <dimen name="text_medium">@dimen/text_16</dimen>
+    <dimen name="text_large">@dimen/text_18</dimen>
+    <dimen name="text_extra_large">@dimen/text_24</dimen>
+
+</resources>
